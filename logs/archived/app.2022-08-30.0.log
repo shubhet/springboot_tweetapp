@@ -1,0 +1,18 @@
+2022-08-30 17:41:48,409 INFO com.tweetapp.TweetAppApplication [main] Starting TweetAppApplication using Java 18.0.1.1 on SHUBHET with PID 14048 (E:\TweetApp-master\TweetApp-SpringBoot\target\classes started by shubh in E:\TweetApp-master\TweetApp-SpringBoot)
+2022-08-30 17:41:48,414 INFO com.tweetapp.TweetAppApplication [main] The following profiles are active: nonprod
+2022-08-30 17:41:52,150 INFO com.tweetapp.TweetAppApplication [main] Started TweetAppApplication in 4.578 seconds (JVM running for 9.909)
+2022-08-30 18:16:02,530 INFO com.tweetapp.TweetAppApplication [main] Starting TweetAppApplication using Java 18.0.1.1 on SHUBHET with PID 2660 (E:\TweetApp-master\TweetApp-SpringBoot\target\classes started by shubh in E:\TweetApp-master\TweetApp-SpringBoot)
+2022-08-30 18:16:02,533 INFO com.tweetapp.TweetAppApplication [main] The following profiles are active: nonprod
+2022-08-30 18:16:06,808 INFO com.tweetapp.TweetAppApplication [main] Started TweetAppApplication in 4.693 seconds (JVM running for 5.594)
+2022-08-30 18:17:09,601 INFO com.tweetapp.TweetAppApplication [main] Starting TweetAppApplication using Java 18.0.1.1 on SHUBHET with PID 8904 (E:\TweetApp-master\TweetApp-SpringBoot\target\classes started by shubh in E:\TweetApp-master\TweetApp-SpringBoot)
+2022-08-30 18:17:09,603 INFO com.tweetapp.TweetAppApplication [main] The following profiles are active: nonprod
+2022-08-30 18:17:12,323 INFO com.tweetapp.TweetAppApplication [main] Started TweetAppApplication in 3.04 seconds (JVM running for 3.707)
+2022-08-30 20:22:48,334 INFO com.tweetapp.TweetAppApplication [main] Starting TweetAppApplication using Java 18.0.1.1 on SHUBHET with PID 10416 (E:\TweetApp-master\TweetApp-SpringBoot\target\classes started by shubh in E:\TweetApp-master\TweetApp-SpringBoot)
+2022-08-30 20:22:48,341 INFO com.tweetapp.TweetAppApplication [main] The following profiles are active: nonprod
+2022-08-30 20:22:51,844 INFO com.tweetapp.TweetAppApplication [main] Started TweetAppApplication in 3.936 seconds (JVM running for 9.272)
+2022-08-30 20:30:09,780 INFO com.tweetapp.TweetAppApplication [main] Starting TweetAppApplication using Java 18.0.1.1 on SHUBHET with PID 2584 (E:\TweetApp-master\TweetApp-SpringBoot\target\classes started by shubh in E:\TweetApp-master\TweetApp-SpringBoot)
+2022-08-30 20:30:09,961 INFO com.tweetapp.TweetAppApplication [main] The following profiles are active: nonprod
+2022-08-30 20:30:25,548 INFO com.tweetapp.TweetAppApplication [main] Started TweetAppApplication in 20.528 seconds (JVM running for 27.24)
+2022-08-30 20:59:14,942 INFO com.tweetapp.TweetAppApplication [main] Starting TweetAppApplication using Java 18.0.1.1 on SHUBHET with PID 15948 (E:\TweetApp-master\TweetApp-SpringBoot\target\classes started by shubh in E:\TweetApp-master\TweetApp-SpringBoot)
+2022-08-30 20:59:14,944 INFO com.tweetapp.TweetAppApplication [main] The following profiles are active: nonprod
+2022-08-30 20:59:18,506 INFO com.tweetapp.TweetAppApplication [main] Started TweetAppApplication in 3.998 seconds (JVM running for 4.863)
